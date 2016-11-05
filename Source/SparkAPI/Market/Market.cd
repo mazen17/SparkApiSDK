@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SparkAPI.Market.Security">
+    <Position X="0.5" Y="0.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAQAAAQCAAEAAAAAAAIAAAAABAAICAA=</HashCode>
+      <FileName>Market\Security.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Market.LimitOrderList">
+    <Position X="0.5" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAAgAAAAAAAAAACBA=</HashCode>
+      <FileName>Market\LimitOrderList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Market.LimitOrderBook">
+    <Position X="0.5" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABgAAAAkCAAAAAAABACAQgAAAAAQAAAACBA=</HashCode>
+      <FileName>Market\LimitOrderBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Market.LimitOrder">
+    <Position X="3.25" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAQAAgAAEAAAAAAAAAAAAAAAAAAIAAAAAABA=</HashCode>
+      <FileName>Market\LimitOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Market.Trade">
+    <Position X="3.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAQAAAAAEAAAAAAAAAAAAAAAAAAIQAAAACCA=</HashCode>
+      <FileName>Market\Trade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SparkAPI.Market.MarketSide">
+    <Position X="5.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Market\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SparkAPI.Market.MarketState">
+    <Position X="5.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAACIDBAAAAAAABAABBADCBAAAgAAEGAIBA=</HashCode>
+      <FileName>Market\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

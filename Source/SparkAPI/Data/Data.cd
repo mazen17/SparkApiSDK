@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SparkAPI.Data.EventFeedArgs">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAACAA=</HashCode>
+      <FileName>Data\EventFeedArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Data.ApiEventFeedBase">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAQAAEAAAAAAIAAAAABACAAAAEAAAIE=</HashCode>
+      <FileName>Data\ApiEventFeedBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Data.ApiEventFeedReplay">
+    <Position X="0.5" Y="5" Width="2.25" />
+    <NestedTypes>
+      <Delegate Name="SparkAPI.Data.ApiEventFeedReplay.EventReceivedHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Data\ApiEventFeedReplay.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAEhBABA=</HashCode>
+      <FileName>Data\ApiEventFeedReplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Data.Securities.ApiSecurityEventFeed">
+    <Position X="3.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQAAAACAA=</HashCode>
+      <FileName>Data\Securities\ApiSecurityEventFeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SparkAPI.Data.Markets.ApiMarketEventFeed">
+    <Position X="5.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Data\Markets\ApiMarketEventFeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
